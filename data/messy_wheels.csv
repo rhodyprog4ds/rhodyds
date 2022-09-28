@@ -1,0 +1,74 @@
+,Unnamed: 0,name,height,diameter,opened,closed,country,location,number_of_cabins,passengers_per_cabin,seating_capacity,hourly_capacity,ride_duration_minutes,climate_controlled,construction_cost,status,design_manufacturer,type,vip_area,ticket_cost_to_ride,official_website,turns
+0,1,360 Pensacola Beach,200.0,,2012-07-03,2013-01-01,USA,Pensacola Beach; Florida,42.0,6.0,252.0,1260.0,12.0,Yes,Unknown,Moved,Realty Masters of FL,Transportable,Yes,,,4.0
+1,2,Amuran,303.0,199.8,2004-01-01,,Japan,Kagoshima; Kyushu,36.0,,,,14.5,Yes,Unknown,Operating,,,,,,1.0
+2,3,Asiatique Sky,200.0,200.0,2012-12-15,,Tailand,Asiatique the Riverfront,42.0,,,,,Yes,Unknown,Operating,Dutch Wheels (Vekoma),,,,http://www.asiatiquesky.com/,
+3,4,Aurora Wheel,295.0,272.0,,,Japan,Nagashima Spa Land; Mie; Honshu,,,,,,,Unknown,Operating,,Fixed,,,http://www.nagashima-onsen.co.jp/,
+4,5,Baghdad Eye,180.0,,2011-01-01,,Iraq,Al-Zawraa Park; Baghdad,40.0,6.0,240.0,960.0,15.0,,$6 million USD,Operating,,,,3.5,,
+5,6,Beijing Great Wheel,692.64,642.7,,,China,Chaoyang Park; Beijing,48.0,40.0,1920.0,5760.0,20.0,yes,$290 million USD,Delayed,The Great Wheel Corporation,Fixed,,,,1.0
+6,7,Belfast Wheel,199.8,,2007-01-01,,Ireland,Belfast,42.0,8.0,336.0,1550.0,13.0,Yes,$13 million USD,Defunct,World Tourist Attractions,Transportable,Yes,Adults – 13; VIP – 110 & 140,http://www.belfastcity.gov.uk/cityhall/bigwheel.asp,1.0
+7,8,Big O,197.0,200.0,2006-01-01,,Japan,Tokyo Dome City,,,,,15.0,Yes,Unknown,Operating,,Centerless,,7.87,http://www.tokyo-dome.co.jp/e/attractions/,
+8,9,Brighton Wheel,160.0,148.0,2011-10-24,,UK,Brighton; United Kingdom,36.0,8.0,288.0,1440.0,12.0,Yes,$9 million USD,Operating,Paramount Attractions,Transportable,Yes,,http://www.brightonwheel.com/,3.0
+9,10,Changsha Ferris Wheel,394.0,325.0,2004-10-01,,China,Changsha; Hunan,48.0,8.0,384.0,1152.0,20.0,Yes,Unknown,Operating,,Fixed,,8.15,http://changshahua.com/entertainment/outdoor-activities/changsha-ferris-wheel/,
+10,11,Chicago Wheel,264.0,75.0,1893-01-01,1906-01-01,USA,Chicago; Illinois,36.0,20.0,720.0,2160.0,20.0,No,Unknown,Defunct,George Ferris,Fixed,,,,
+11,12,Colossus,180.0,165.0,1984-01-01,,USA,Six Flags St Louis; Eureka; Missouri,32.0,10.0,320.0,1280.0,15.0,No,Unknown,Operating,Carousel Holland B.V.,Fixed,No,Included in Park Admission,http://www.sixflags.com/stLouis/rides/Colossus.aspx,
+12,13,Cosmo Clock 21,369.0,328.0,1999-03-18,,Japan,Minato Mirai 21; Yokohama,60.0,8.0,480.0,1920.0,15.0,,Unknown,Operating,,Fixed,,6.93,http://www.senyo.co.jp/cosmo/attraction/001.html,
+13,14,Daikanransha,377.0,328.0,1999-01-01,,Japan,Palette Town; Odaiba,64.0,6.0,384.0,1440.0,16.0,,Unknown,Operating,,Fixed,,8.87,http://www.daikanransha.com/,
+14,15,Diamond and Flower Ferris Wheel,384.0,364.17,2001-01-01,,Japan,Kasai Rinkai Park; Tokyo,68.0,6.0,408.0,1440.0,17.0,Yes,Unknown,Operating,Senyo,Fixed,,6.93,http://www.senyo.co.jp/kasai/,
+15,16,Enclosed Ferris Wheel,190.0,157.0,2011-01-01,,Turkmenistan,Ashgabat,24.0,6.0,144.0,,,Yes,$90 million USD,Operating,Giant Wheels Fabbri Group,Enclosed,,,,
+16,17,Eurowheel,299.7,,1999-01-01,,Italy,Mirabilandia,,,,,11.0,,Unknown,Operating,Pax Ltd / Barbieri,Fixed,,,http://www.mirabilandia.it/,1.0
+17,18,Eye of the Emirates,197.0,,2005-01-01,,UAE,Sharjah,42.0,8.0,336.0,3360.0,6.0,Yes,$6.8 million USD,Operating,,,,Adults – 8.17; Children – 4.08,http://www.alqasba.ae/eyeofemirates.aspx,
+18,19,Eye on Malaysia (1),197.0,,2007-01-06,,Malaysia,Kuala Lumpur (Malacca Island),42.0,8.0,336.0,1680.0,12.0,,$9.89 million USD,Defunct,Fitraco NV,Transportable,,Adults – 4.94; Children – 2.64,,
+19,20,Eye on Malaysia (2),331.0,,2013-01-01,,Malaysia,Malacca Island,54.0,6.0,324.0,,,Yes,$13.18 million USD,Under Construction,,Fixed,,,,
+20,21,Grande Roue de Paris,328.0,,1900-01-01,,France,Champ de Mars; Paris,,,,,8.0,No,Unknown,Defunct,Théodore Vienne,Fixed,,,,
+21,22,Great Smoky Mountain Skywheel,200.0,,2013-01-01,,USA,Pigeon Forge; Tennessee,42.0,8.0,336.0,1680.0,12.0,Yes,Unknown,Operating,,,Yes,Adults – 13; Children -9; VIP – 50,http://islandinpigeonforge.com/,4.0
+22,23,Great Wheel,308.0,270.0,1895-07-17,,UK,Earls Court; London,40.0,40.0,1600.0,4800.0,20.0,No,Unknown,Defunct,Adam Gaddelin and Gareth Watson,,,,,
+23,24,Golden Gate Flyer,728.0,700.0,,,USA,Treasure Island; San Francisco; California,36.0,40.0,1400.0,,30.0,Yes,Estimated Between $650 and $750 million USD,In development,Arup Group (London Eye; High Roller; Singapore Flyer),Fixed,Yes,Estimated $38,https://www.goldengateflyer.com/,1.0
+24,25,Harbin Ferris Wheel,361.0,,2003-01-01,,China,Harbin; Hellonjiang,63.0,6.0,378.0,1134.0,20.0,,$2.42 million USD,Operating,,,,Adults – 3.26 Children – 1.63,,
+25,26,Helsinki Wheel,165.0,,2013-01-01,,Finland,South Harbor; Helsinki,36.0,8.0,288.0,,,Yes,Unknown,Planned,,Portable,,,,
+26,27,HEP Five Wheel,347.77,246.06,1998-01-01,,Japan,HEP Five building; Osaka; Honshu,52.0,4.0,208.0,832.0,15.0,Yes,Unknown,Operating,,,,4.94,http://www.hepfive.jp/,
+27,28,High Roller,550.0,520.0,2013-01-01,,USA,Las Vegas Strip; Nevada,28.0,40.0,1120.0,2240.0,30.0,,Unknown,Under Construction,Arup Engineering,,,25,http://www.caesars.com/thelinq/,
+28,29,Jeddah Eye,492.13,,,,Saudi Arabia,Jeddah City Centre; Jeddah,,,,,,Yes,$250 million USD,Planned,City Center Development Company,Fixed,,,,
+29,30,Kaohsiung Eye,336.0,160.0,2007-05-12,,Taiwan,Dream Mall; Kaohsiung,36.0,,,,15.0,,$6.68 million USD,Operating,Tungcheng Development Corporation,,,5,http://www.dream-mall.com.tw/,
+30,31,London Eye,443.0,394.0,2000-03-09,,UK,South Bank; Lambeth; London,32.0,25.0,800.0,1600.0,30.0,Yes,$113 million USD,Operating,Arup Engineering,Fixed,Yes,28,http://www.londoneye.com/,
+31,32,Mall of Asia Eye,180.0,,2011-12-18,,Phillippines,Mall of Asia; Pasay; Metro Manila,36.0,6.0,216.0,1296.0,10.0,Yes,Unknown,Operating,,Fixed,Yes,Regular – 3.55 VIP – 5.92,http://www.smstoryland.com/SMBYamusementpark/moa-eye,
+32,33,Mashhad Ferris Wheel,262.0,,2005-01-01,,Iran,Mellat Park; Mashhad,,,,,,,Unknown,,,,,,,
+33,34,Mickey's Fun Wheel,160.0,150.0,2001-02-08,,USA,Disney California Adventure Park,24.0,6.0,144.0,960.0,9.0,No,Unknown,Operating,Walt Disney Imagineering/Waagner Biro,Eccentric,,,http://disneyland.disney.go.com/disney-california-adventure/mickeys-fun-wheel/,
+34,35,Miramar Ferris Wheel,316.0,233.0,2004-01-01,,Taiwan,Miramar Entertainment Park; Taipei,48.0,6.0,288.0,1016.0,17.0,Yes,$10 million USD,Operating,Miramar City Development Holdings Ltd.,,,Weekdays – 5.01 Weekends – 6.68,http://www.miramar.com.tw/,
+35,36,Moscow-850,240.0,70.0,1997-01-01,,Russia,VVC; Moscow,40.0,8.0,320.0,2742.0,7.0,Yes,Unknown,Operating,MIR / Pax Company,Fixed,,,,1.0
+36,37,Myrtle Beach Sky Wheel,187.0,,2011-05-20,,USA,Myrtle Beach; South Carolina,42.0,6.0,252.0,1512.0,10.0,Yes,$12 million USD,Operating,Chance,Fixed,Yes,Adults – 13 Children -9 VIP – 50,http://myrtlebeachskywheel.com/,3.0
+37,38,Navy Pier Ferris Wheel,150.0,140.0,1995-07-01,,USA,Chicago; Illinois,40.0,6.0,240.0,2057.0,7.0,No,$3.2 million USD,Operating,Vekoma,Fixed,,6,http://www.navypier.com/things2do/rides_attract/pier_park.html,
+38,39,New York Wheel,630.0,,2017-01-01,,USA,Staten Island; New York City,36.0,40.0,1440.0,2273.0,38.0,Yes,$580 million USD,Under Construction,Mammoet-Starneth,Fixed,Yes,~$35,http://www.newyorkwheel.com/,1.0
+39,40,Niagara SkyWheel,175.0,166.65,2006-06-17,,Canada,Clifton Hills; Niagara Falls,42.0,8.0,336.0,2016.0,10.0,Yes,$10 million USD,Operating,Chance,Fixed,,$10.99+tax for Adults and $6.99+tax for Children,http://www.cliftonhill.com/attractions/niagara-skywheel,3.0
+40,41,Nippon Moon,,,2015-01-01,,Japan,,32.0,,,,40.0,Yes,Unknown,Design/Financing,UNStudio,Fixed,Yes,,http://www.wired.co.uk/news/archive/2013-09/03/nippon-moon-giant-wheel,
+41,42,Observation Wheel Leeds,197.0,,2013-02-16,,UK,Leeds,40.0,6.0,240.0,1107.0,13.0,Yes,Unknown,SBNO,,Portable,Yes,Adults – 7.79 Children – 5.19 VIP – 58.41,http://www.observationwheelleeds.co.uk/,
+42,43,Orlando Eye,400.0,,2015-01-01,,USA,Orlando; Florida,30.0,15.0,480.0,1309.0,22.0,Yes,$90 million USD,Under Construction,Intamin,,Yes,TBA,,1.0
+43,44,The Pacific Wheel,130.0,,2008-01-01,,USA,Santa Monica; California,,,,,,No,$1.5 million USD,Operating,Chance Morgan Rides,Fixed,,5,http://www.pacpark.com/rides.php?location=rides&navheight=short,
+44,45,Polaris Tower,236.0,,1993-01-01,,S Korea,Kumdori Land; Yuseong-gu; Daejon,36.0,,,,,,Unknown,,,,,,,
+45,46,Roue de Paris,200.0,,2000-01-01,,France,Place de la Concorde,42.0,8.0,336.0,,,,Unknown,Operating,Ronald Bussink,Transportable,,Adults – 12.92; Children – 6.46,http://rouedeparis.com/home.htm,
+46,47,Seattle Great Wheel,175.0,,2012-06-29,,USA,Pier 57; Seattle; Washington,42.0,8.0,336.0,1680.0,12.0,Yes,$20 million USD,Operating,Chance,Fixed,Yes,Adults – 13 Children – 8.50 VIP – 50,http://www.seattlegreatwheel.com/,3.0
+47,48,Shanghai Ferris Wheel,354.0,322.0,2003-01-01,,China,Jinjiang Action Park; Shanghai,63.0,6.0,378.0,907.0,25.0,,$1.2 million USD,Operating,,Fixed,,2.6,http://www.jjlysh.com/,
+48,49,Shining Flower Wheel,164.04,147.64,1966-01-01,,Japan,Inagi; Tokyo,32.0,2.0,64.0,349.0,11.0,,Unknown,Operating,,,,4.97,http://www.fujiq.jp/attraction/shining.html,
+49,50,Singapore Flyer,541.0,492.0,2008-04-15,,Singapore,Marina Centre; Downtown Core,28.0,28.0,784.0,1568.0,30.0,Yes,$180 million USD,Operating,DP Architects,Fixed,Yes,Adults – 26.05 Children – 16.58,http://www.singaporeflyer.com/,
+50,51,Sky Dream Fukuoka,394.0,361.0,2001-01-01,,Japan,Evergreen Marinoa; Fukuoka,,,,,20.0,Yes,Unknown,Relocated,,Fixed,,4.97,http://web.archive.org/web/20100126161452/http:/evergreenmarinoa.com/sd/,
+51,52,Sky Scraper,150.0,,1991-01-01,,USA,Lagoon Park; Farmington; Utah,36.0,6.0,216.0,648.0,20.0,No,$1.5 million USD,Operating,Nauta,Fixed,,,http://www.lagoonpark.com/,
+52,53,Sky Wheel,289.0,,1990-01-01,,Taiwan,Janfusun Fancyworld,50.0,8.0,400.0,1600.0,15.0,Yes,Unknown,Operating,,Fixed,,,http://www.janfusun.com.tw/,1.0
+53,54,SkyView,200.0,,2013-07-16,,USA,Atlanta,42.0,6.0,252.0,1008.0,15.0,Yes,Unknown,Operating,,Transportable,Yes,Adult – $13.50+tax ($14.45),http://www.skyviewatlanta.com/,4.0
+54,55,SkyVue,500.0,,2013-01-01,,USA,Las Vegas Strip; Nevada,32.0,24.0,768.0,1536.0,30.0,,$300 million USD,Under Construction,,,,,http://skyvuelasvegas.com/,
+55,56,Space Eye,328.0,,1990-01-01,,Japan,Space World; Kitakyushu,,,,,,,Unknown,Operating,,Fixed,,,http://www.spaceworld.co.jp/,
+56,57,Star of Lake Tai,377.0,364.0,2008-01-01,,China,Lake Tai; Wuxi; Jiangsu,64.0,6.0,384.0,,18.0,,$20 million USD,Operating,Japanese Quanyang Kogyo Co. Ltd.,,,,,
+57,58,Star of Nanchang,525.0,504.9,2006-05-05,,China,Nanchang; Jiangxi,60.0,8.0,480.0,960.0,30.0,Yes,$7.3 million USD,Operating,Nanchang Star Entertainment Limited,Fixed,,8.16,http://nczx.txjly.com/,
+58,59,Star of Puebla,262.0,229.0,2013-07-08,,Mexico,Linear Park; Puebla,54.0,8.0,432.0,864.0,30.0,Yes,Unknown,Operating,Ronald Bussink / Maurer German Wheels,Transportable,Yes,,,1.0
+59,60,Steel Pier Ferris Wheel,200.0,,2014-01-01,,USA,Steel Pier; Atlantic City; New Jersey,42.0,,,,20.0,Yes,$12 million USD,Planned,,Fixed,,10 to 15,,
+60,61,Suzhou Ferris Wheel,394.0,361.0,2009-05-21,,China,Suzhou; Jiangsu,60.0,5.0,300.0,900.0,20.0,Yes,$45.67 million USD,Operating,,Fixed,,17.94,http://www.szmtl.net/main.html,
+61,62,Tbilisi Ferris Wheel,262.0,,2010-01-01,,Georgia,Mtatsminda Park; Tbsilsi,,,,,15.0,,Unknown,,,,,3.5,,
+62,63,Technostar,279.0,274.0,1985-01-01,,Japan,Tsukuba; Ibaraki,48.0,8.0,384.0,1536.0,15.0,Yes,Unknown,Defunct,,,,,,
+63,64,Tempozan Ferris Wheel,369.0,330.0,1997-07-12,,Japan,Osaka; Honshu,60.0,8.0,480.0,1920.0,15.0,,Unknown,Operating,,Fixed,,6.97,http://www.senyo.co.jp/tempozan/index.html,
+64,65,Texas Star,212.0,,1985-01-01,,USA,Fair Park; Dallas; Texas,44.0,6.0,264.0,1320.0,12.0,,$2.2 million USD,Operating,SDC Corp,,,7,,
+65,66,The Dubai Eye,690.0,,2015-01-01,,Dubai,,,,,,,Yes,$337 million USD,Under Construction,,,,,http://thedubaieye.com/,
+66,67,The Southern Star,394.0,,2008-01-01,,Australia,Waterfront City; Melbourne,21.0,20.0,420.0,840.0,30.0,Yes,$100 million USD,SBNO,,Fixed,,Adults – 27.99 Children – 16.41,http://www.thesouthernstar.com.au/,
+67,68,Tianjin Eye,394.0,361.0,2009-04-05,,China,Yongle Bridge; Tianjin,48.0,8.0,384.0,768.0,30.0,Yes,Unknown,Operating,,Fixed,,11.41,http://www.tianjinzhiyan.com/,
+68,69,Wheel of Brisbane,200.0,,2008-01-01,,Australia,Brisbane; Australia,42.0,8.0,336.0,1680.0,12.0,Yes,Unknown,,Ronald Bussink/World Tourist Attractions,Transportable,,,http://thewheelofbrisbane.com.au/,
+69,70,Wheel of Perth,164.0,,2009-01-01,,Australia,Perth,36.0,6.0,216.0,1296.0,10.0,Yes,$10 million USD,,World Tourist Attractions,Transportable,Yes,Adults – 15 Children – 10 VIP – 119,,3.0
+70,71,Wiener Riesenrad,212.0,200.0,1897-01-01,,Austria,Prater; Leopoldstadt; Vienna,15.0,,,,10.0,,Unknown,Operating,Walter Basset,,Yes,Adults – 11.69 Children – 5.19,http://www.wienerriesenrad.com/en,1.0
+71,72,Wonder Wheel,150.0,135.0,1920-01-01,,USA,Coney Island; New York City,24.0,6.0,144.0,864.0,10.0,No,Unknown,Operating,Eccentric Ferris Wheel Company,Eccentric,No,7,http://www.wonderwheel.com/,2.0
+72,73,Zhengzhou Ferris Wheel,394.0,361.0,2003-01-01,,China,Century Amusement Park; Henan,48.0,8.0,384.0,768.0,30.0,Yes,Unknown,Operating,,Fixed,,,,
