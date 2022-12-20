@@ -6,11 +6,11 @@ import yaml as yml
 def yml_df(file):
     with open(file, 'r') as f:
         file_unparsed = f.read()
-
     file_dict = yml.safe_load(file_unparsed)
     return pd.DataFrame(file_dict)
 
-ach = yml_df('achievments.yml')
+# TODO: fix year site
+ach = yml_df('../BrownFall22/_data/achievments.yml')
 
 '\n - [ ] '.join(['']+ach['components'][0])
 
@@ -33,7 +33,8 @@ def issue_action_str(row):
     rep_dict['description'] = row['description']
     return yml_ic_template.format_map(rep_dict)
 
-grading_issue_action = '\n'.join([action_head]+list(ach.apply(issue_action_str,axis=1).values))
+all_issues = ach.apply(issue_action_str,axis=1).values)
+grading_issue_action = '\n'.join([action_head]+list(all_issues)).replace('{','{{').replace('}','}}')
 
 
 with open('grading_issues.yml', 'w') as gi_file:
