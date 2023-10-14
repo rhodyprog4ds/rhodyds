@@ -1,3 +1,4 @@
+name: Generate Achievement Issues
 on:
   workflow_dispatch
 
